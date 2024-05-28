@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://loctran.vercel.app/" target="_blank">loctran.tech</a>
+  <a href="https://tranhvloc.github.io/portfolio/" target="_blank">loctran.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/programming.gif" />
@@ -10,7 +10,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://loctran.vercel.app/" target="_blank">loctran.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://tranhvloc.github.io/portfolio/" target="_blank">loctran.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
