@@ -28,7 +28,7 @@ function Projects() {
               title="Library Smart Chatbot"
               description="A 24/7 AI agent to streamline library services using Node.js and React, GPT-4 API, integrated internal APIs for resource recommendations, room reservations, and device rentals for Miami University community."
               ghLink="https://github.com/Meng-V/smartchatbot"
-              demoLink=""
+              demoLink="https://new.lib.miamioh.edu/smartchatbot/"
             />
           </Col>
 

@@ -1,4 +1,3 @@
-import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { DiGithubBadge } from "react-icons/di";
 import {
@@ -6,7 +5,12 @@ import {
   SiPostman,
   SiJupyter,
   SiKalilinux,
+  SiKubernetes,
+  SiDocker,
+  SiApachekafka,
+  SiApachespark,
 } from "react-icons/si";
+import { FaAws } from "react-icons/fa";
 
 function Toolstack() {
   return (
@@ -25,6 +29,21 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiKalilinux />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiKubernetes />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <FaAws />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDocker />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiApachekafka />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiApachespark />
       </Col>
     </Row>
   );

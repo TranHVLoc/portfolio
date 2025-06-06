@@ -32,11 +32,10 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "#126EB1" }}>
-            Every dip in the road leads to heights untold<br />
-            Though not all is in our sway, each day we can mold
+            The only failure in your twenties is inaction<br />
+             The rest is trial and error
             {" "}
           </p>
-          <footer className="blockquote-footer">Loc</footer>
         </blockquote>
       </Card.Body>
     </Card>

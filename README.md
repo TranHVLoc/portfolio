@@ -34,3 +34,15 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
+
+## 🛫 Deployment Instructions
+To deploy the project, run the following commands:
+1. Build the app for production:
+  ```bash
+  npm run predeploy
+  ```
+2. Deploy to GitHub Pages:
+  ```bash
+  npm run deploy
+  ```
+This will build the project and publish the `build` directory to the `gh-pages` branch of your repository.

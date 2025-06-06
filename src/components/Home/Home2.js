@@ -22,7 +22,7 @@ function Home2() {
               <br />
               <br />I am fluent in
               <i>
-                <b className="blue"> C++, Javascript, and Python. </b>
+                <b className="blue"> C#, Javascript (Typescript), and Python. </b>
               </i>
               <br />
               <br />
@@ -33,6 +33,9 @@ function Home2() {
                 <b className="blue">
                   AI/ML
                 </b>
+                {" "}
+                and
+                {" "}<b className="blue">Big Data</b>
               </i>
               <br />
               <br />
